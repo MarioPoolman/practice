@@ -1,3 +1,5 @@
 Hello
 Added again
+Added something important to test multiple branches
+Added something after bug change
 Hey, we fixed the bug!
